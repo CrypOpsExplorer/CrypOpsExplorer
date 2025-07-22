@@ -1,12 +1,52 @@
-- - 👋 Hi, I’m @CrypOpsExplorer
-- 👀 I’m interested in Operations Management, Project Management, Marketing, Digital Marketing, Crypto Trading, Crypto Gaming, Web3 Gaming, and PC Gaming.
-- 🌱 I’m currently learning more about Web3 technologies and advanced trading strategies in the crypto space.
-- 💞️ I’m looking to collaborate on projects related to innovative tech solutions, gaming platforms, and digital marketing campaigns.
-- 📫 How to reach me: You can reach out to me via email at [georgeyshaji007@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid collector of retro video games and enjoy exploring abandoned places in my free time.
+# Georgy S. Ezhakunnel
+**Chief of Staff @ Astralane | DeFi & Solana Infrastructure**
 
-<!---
-CrypOpsExplorer/CrypOpsExplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔹 About Me
+Operations leader and DeFi specialist with hands‑on experience in Solana infrastructure, validator management, automation and business development.
+
+## 🚀 Key Projects
+
+- **Unore**  
+  • KOL engagement & research  
+  • Hackathon contributor
+
+- **Astralane (Low‑Latency Middleware)**  
+  • End‑to‑end operations: client relations, Discord onboarding, validator partnerships  
+  • Built pipelines & 5‑year financial forecasts for funding  
+  • Negotiated and formalized service agreements (e.g. Staking Facilities, Blockdaemon)  
+  • High‑level messaging, case studies & grant proposals  
+
+- **Validator Automation & Analytics**  
+  • Python scripts to extract stake, identity & site data from validators.app & marinade.finance  
+  • Running and optimizing Solana validator performance  
+
+- **Solana Trading Bot**  
+  • Rust/Python implementation for low‑value, high‑efficiency transactions  
+  • Tip wallet research & dynamic tip adjustments
+
+- **Technical Documentation & Compliance**  
+  • Detailed architecture docs, sustainability plans & budgets  
+  • Reviewed Jito Terms of Use for protocol compliance  
+
+
+## 🛠️ Skills & Tech
+
+**Blockchain & DevOps:**  
+Solana validator ops, Iris transaction peering, shreds streaming, gRPC
+
+**Programming & Automation:**  
+Python, Rust, API integrations, data pipelines
+
+**Finance & Forecasting:**  
+Budget modeling, burn‑rate analysis, grant budgeting
+
+**Business & BD:**  
+Partnerships, referral programs, VC outreach, community growth
+
+**Writing & Research:**  
+Grant proposals, case studies, competitor analysis
+
+## 📬 Connect
+
+- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- LinkedIn: [linkedin.com/in/georgyez](https://linkedin.com/in/georgyez)
