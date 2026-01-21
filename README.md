@@ -48,5 +48,5 @@ Grant proposals, case studies, competitor analysis
 
 ## 📬 Connect
 
-- GitHub: [github.com/yourusername](https://github.com/CrypOpsExplorer)  
+- GitHub: [https://github.com/CrypOpsExplorer](https://github.com/CrypOpsExplorer)  
 - LinkedIn: [linkedin.com/in/georgyez](https://www.linkedin.com/in/georgy-s-ezhakunnel/)
